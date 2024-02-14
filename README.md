@@ -46,14 +46,13 @@ For best results and improved accuracy when using LicensePlateReader, consider t
 
 ## Testing
 
-LicensePlateReader includes a set of unit tests to ensure the functionality of the license plate recognition algorithm. To run these tests, follow these steps:
+-Navigate to the root directory of the project where the `test.py` file is located.
 
--Navigate to the root directory of the project where the `tests.py` file is located.
 -Run the following command in your terminal:
 
 python tests.py
 
--The images used for tests can be found in the 'testPlates'folder.
+-The images used for tests can be found in the 'testPlates' folder.
 
 ## Extensibility
 
