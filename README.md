@@ -50,7 +50,7 @@ For best results and improved accuracy when using LicensePlateReader, consider t
 
 - Run the following command in your terminal:
 
-python tests.py
+python test.py
 
 - The images used for tests can be found in the 'testPlates' folder.
 
