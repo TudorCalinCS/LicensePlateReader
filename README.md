@@ -33,6 +33,14 @@ python recognize_license_plate.py path/to/image.jpg
 
 You can also use the recognize_license_plate() function directly in your Python code.
 
+## Usage tips
+
+For best results and improved accuracy when using LicensePlateReader, consider the following:
+
+- Use high-quality images with clear and well-lit license plates.
+- Capture license plates at close distances and avoid capturing them at extreme angles.
+- Ensure that the license plate is centered within the image frame.
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
