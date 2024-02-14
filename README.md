@@ -29,7 +29,10 @@ pip install easyocr
 Command-line Interface:
 
 Run the recognize_license_plate.py script with the desired image file as an argument:
+
 python recognize_license_plate.py path/to/image.jpg
+
+If no image file is provided, the script will prompt you to manually select an image using a graphical file dialog.
 
 You can also use the recognize_license_plate() function directly in your Python code.
 
@@ -44,4 +47,3 @@ For best results and improved accuracy when using LicensePlateReader, consider t
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-If no image file is provided, the script will prompt you to manually select an image using a graphical file dialog.
