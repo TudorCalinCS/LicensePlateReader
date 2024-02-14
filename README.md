@@ -44,6 +44,10 @@ For best results and improved accuracy when using LicensePlateReader, consider t
 - Capture license plates at close distances and avoid capturing them at extreme angles.
 - Ensure that the license plate is centered within the image frame.
 
+## Extensibility
+
+LicensePlateReader is designed with extensibility in mind, making it easy to adapt for various use cases beyond simple license plate recognition. The project can be extended to suit specific requirements such as parking lot management, access control systems, and more.
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
