@@ -28,7 +28,7 @@ pip install easyocr
 
 Command-line Interface:
 
-Run the recognize_license_plate.py script with the desired image file as an argument:
+- Run the recognize_license_plate.py script with the desired image file as an argument:
 
 python recognize_license_plate.py path/to/image.jpg
 
@@ -46,13 +46,13 @@ For best results and improved accuracy when using LicensePlateReader, consider t
 
 ## Testing
 
--Navigate to the root directory of the project where the `test.py` file is located.
+- Navigate to the root directory of the project where the `test.py` file is located.
 
--Run the following command in your terminal:
+- Run the following command in your terminal:
 
 python tests.py
 
--The images used for tests can be found in the 'testPlates' folder.
+- The images used for tests can be found in the 'testPlates' folder.
 
 ## Extensibility
 
