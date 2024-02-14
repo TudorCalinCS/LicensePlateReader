@@ -11,7 +11,7 @@ LicensePlateReader is a Python project designed to recognize license plates usin
 
 ## Clone the repository
 
-git clone https://github.com/your-username/LicensePlateReader.git
+git clone https://github.com/TudorCalinCS/LicensePlateReader.git
 
 ## Install the required dependencies
 
