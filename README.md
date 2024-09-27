@@ -1,6 +1,6 @@
 # LicensePlateReader
 
-LicensePlateReader is a Python project designed to recognize license plates using computer vision techniques and the EasyOCR library to accurately detect and extract license plate numbers from images of vehicles.
+LicensePlateReader is a Python-based tool that uses computer vision and the EasyOCR library to detect and extract license plate numbers from vehicle images.
 
 ## Features
 
